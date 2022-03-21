@@ -8,7 +8,7 @@
     <artifactId>Spring-Integration-Example</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
-        <finalName>docker-jenkins-integration-sample</finalName>
+        <finalName>docker-jenkins-integration-sample2</finalName>
     </build>
 
     <properties>
